@@ -174,7 +174,6 @@ int main(void)
   uint16_t pressure = 20;
   int16_t temperature = 10;
   uint16_t humidity = 30;
-  uint8_t batteryLevel;
   while(1)
   {
 	  /* -- Doc va hien thi gia tri nhiet do --*/
